@@ -26,7 +26,7 @@
 
 local t = {}
 
-t[1] = "No puedo hacerlo.Pablo"  -- {TEXT, input.moon}
+t[1] = "No puedo hacerlo."  -- {TEXT, input.moon}
 t[2] = "Eso no funcionará."  -- {TEXT, input.moon}
 t[3] = "Nah."  -- {TEXT, input.moon}
 t[4] = "Quizás más tarde."  -- {TEXT, input.moon}
