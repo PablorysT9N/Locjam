@@ -17,10 +17,10 @@
 local t = {}
 
 t[1] = {
-    title_english = "Translation by",
-    title_translated = "Translation by",
-    names_english = "name1\nname2\nname3\nand so on...",
-    names_translated = "name1\nname2\nname3\nand so on...",
+    title_english = "Localization by ESLAC Team",
+    title_translated = "Localizado por Equipo ESLAC",
+    names_english = "Luciana Prieto\Kevin Morgado\Felipe Carvajal\nand Pablo Reyes",
+    names_translated = "Luciana Prieto\Kevin Morgado\Felipe Carvajal\nand Pablo Reyes",
 }
 
 -- t[2] = {
