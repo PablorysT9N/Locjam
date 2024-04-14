@@ -19,8 +19,8 @@ local t = {}
 t[1] = {
     title_english = "Translation by",
     title_translated = "Traducido por",
-    names_english = "Luciana Prieto\Kevin Morgado\Felipe Carvajal\Pablo Reyes",
-    names_translated = "Luciana Prieto\Kevin Morgado\Felipe Carvajal\Pablo Reyes",
+    names_english = "Luciana Prieto\nKevin Morgado\nFelipe Carvajal\nPablo Reyes",
+    names_translated = "Luciana Prieto\nKevin Morgado\nFelipe Carvajal\nPablo Reyes",
 }
 
 -- t[2] = {
